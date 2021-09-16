@@ -40,4 +40,4 @@ This project is using stream methods,postgresql connection and REST API
 
 
 ## License
-[Muharrem Koc](https://github.com/muharremkoc)
+[Muharrem Koç](https://github.com/muharremkoc)
