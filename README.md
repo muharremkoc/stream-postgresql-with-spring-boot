@@ -39,5 +39,4 @@ This project is using stream methods,postgresql connection and REST API
 
 
 
-## License
 [Muharrem Koç](https://github.com/muharremkoc)
